@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-api-core/#history
 
+## [2.41.0](https://github.com/googleapis/google-cloud-python/compare/google-api-core-v2.40.0...google-api-core-v2.41.0) (2026-10-02)
+
+
+### Features
+
+* **api_core:** resumable upload supports request_body in constructor ([#18543](https://github.com/googleapis/google-cloud-python/issues/18543)) ([97bc619](https://github.com/googleapis/google-cloud-python/commit/97bc619323b524f8e686bb27c43bd7275f41c239))
+* **auth:** Support sync credentials in AsyncAuthorizedSession ([#18542](https://github.com/googleapis/google-cloud-python/issues/18542)) ([3799568](https://github.com/googleapis/google-cloud-python/commit/379956865248ebc40e5b851ede520056e65abcac))
+
 ## [2.40.0](https://github.com/googleapis/google-cloud-python/compare/google-api-core-v2.39.0...google-api-core-v2.40.0) (2026-09-29)
 
 
